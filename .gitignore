@@ -1,0 +1,19 @@
+# project report is kept out of version control
+final_project_report.pdf
+
+# data and trained weights
+*.pth
+*.pt
+datasets/
+combined_data/
+combined_data_new/
+cropped_images/
+runs/
+*.zip
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
