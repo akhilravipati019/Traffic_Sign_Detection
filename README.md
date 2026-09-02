@@ -23,7 +23,10 @@ Full pipeline (`final_project.ipynb`), evaluated on the detection test split:
 | Classification | ViT + ResNet-34 fusion, on YOLO crops | accuracy | 95.62% |
 | Overall | — | 0.5·IoU + 0.5·accuracy | 93.19% |
 
-![Per-detection bounding-box IoU across the test set](assets/yolo_detection_accuracy.png)
+<p>
+<img src="assets/yolo_detection_accuracy.png" width="49%" alt="Per-detection bounding-box IoU across the test set">
+<img src="assets/bounding_box_loss_accuracy.png" width="49%" alt="Per-detection bounding-box loss across the test set">
+</p>
 
 *IoU between each predicted box and its ground-truth box, one bar per detected sign in
 the test set.*
