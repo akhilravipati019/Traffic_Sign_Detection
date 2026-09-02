@@ -48,7 +48,7 @@ Fusion model over 20 training epochs:
 <img src="assets/fusion_loss.png" width="49%" alt="Training and validation loss">
 </p>
 
-![Confusion matrix on the test set](assets/fusion_confusion_matrix.png)
+<img src="assets/fusion_confusion_matrix.png" width="80%" alt="Confusion matrix on the test set">
 
 ## How it works
 
