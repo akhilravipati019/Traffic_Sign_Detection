@@ -43,9 +43,10 @@ The fusion model appears in both tables because `final_project.ipynb` and
 
 Fusion model over 20 training epochs:
 
-![Training and validation accuracy](assets/fusion_accuracy.png)
-
-![Training and validation loss](assets/fusion_loss.png)
+<p>
+<img src="assets/fusion_accuracy.png" width="49%" alt="Training and validation accuracy">
+<img src="assets/fusion_loss.png" width="49%" alt="Training and validation loss">
+</p>
 
 ![Confusion matrix on the test set](assets/fusion_confusion_matrix.png)
 
