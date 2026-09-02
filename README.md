@@ -24,8 +24,8 @@ Full pipeline (`final_project.ipynb`), evaluated on the detection test split:
 | Overall | — | 0.5·IoU + 0.5·accuracy | 93.19% |
 
 <p>
-<img src="assets/yolo_detection_accuracy.png" width="49%" alt="Per-detection bounding-box IoU across the test set">
-<img src="assets/bounding_box_loss.png" width="49%" alt="Per-detection bounding-box loss across the test set">
+<img src="assets/yolo_detection_accuracy.png" width="48%" alt="Per-detection bounding-box IoU across the test set">
+<img src="assets/bounding_box_loss.png" width="50%" alt="Per-detection bounding-box loss across the test set">
 </p>
 
 *IoU between each predicted box and its ground-truth box, one bar per detected sign in
