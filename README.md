@@ -1,4 +1,4 @@
-# Real-Time Traffic Sign Recognition and Classification
+# Real-Time Traffic Sign Recognition and Classification  
 
 A two-stage pipeline for finding and classifying road signs in images. A fine-tuned
 YOLOv8 model locates the signs, then each detection is cropped and passed to a
